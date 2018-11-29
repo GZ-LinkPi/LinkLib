@@ -10,6 +10,6 @@
 
 Technical documentation is available at: https://gitee.com/LinkPi/LinkLib/wikis/pages/preview?title=Overview&parent=LinkLib(English)
 
-More modules are gradually being opened, so stay tuned: smiley:
+More modules are gradually being opened. Watch this space!
 
 Mirror of the project is located: https://gitee.com/LinkPi/LinkLib
